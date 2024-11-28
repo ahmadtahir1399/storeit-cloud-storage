@@ -32,7 +32,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
 
       <section className="flex flex-1 flex-col items-center bg-white p-4 py-10 lg:justify-center lg:p-10 lg:py-0">
         <div className="mb-16 ">
-          <h1 className="text-black font-semibold text-3xl">STORE IT</h1>
+          <h1 className="text-black font-semibold text-3xl">A Store</h1>
         </div>{" "}
         {/* <Image
             src="/assets/icons/logo-full-brand.svg"

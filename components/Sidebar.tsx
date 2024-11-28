@@ -33,7 +33,7 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
           height={52}
           className="h-auto"
         /> */}
-        <h1 className="text-black font-semibold text-3xl">STORE IT</h1>
+        <h1 className="text-black font-semibold text-3xl">A Store</h1>
       </Link>
 
       <nav className="sidebar-nav">
